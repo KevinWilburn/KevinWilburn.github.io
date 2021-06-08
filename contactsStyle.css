@@ -1,0 +1,15 @@
+body {
+    background-image: url("C:/Users/wilbu/Documents/devCodeCamp/Week5/images/Contacts.jpg");
+    background-size: cover;
+    
+}
+div {
+    font-size: 500%;
+    
+}
+h1 {
+
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 275%;
+}
