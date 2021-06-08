@@ -1,0 +1,25 @@
+body {
+    background-image: url("C:/Users/wilbu/Documents/devCodeCamp/Week5/HTML/KevinWilburn.github.io/images/HomePage.jpg");
+    background-size: cover;
+    
+}
+
+div {
+
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 500%;
+    
+    
+}
+h2 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 275%;
+}
+h3 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 175%;
+}
